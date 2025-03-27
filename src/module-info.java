@@ -1,5 +1,5 @@
 module HashFuntions {
-	 exports hashfunctions;
+	exports hashfunctions;
 	requires jfreechart;
 	requires java.desktop;
 	requires org.bouncycastle.provider;
