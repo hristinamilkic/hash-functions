@@ -21,10 +21,6 @@ public class HashBenchmark {
         System.out.println("Benchmarking heš funkcija...");
 
         
-        for (int i = 0; i < 10_000; i++) {
-            hash(TEST_STRING, "SHA-256");
-        }
-
         for (String algorithm : algorithms) {
             long totalDuration = 0;
 
