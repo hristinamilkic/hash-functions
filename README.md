@@ -1,3 +1,3 @@
 # hash-functions
 
-Prvi kolokvijum - Bezbedno i robusno programiranje
+Prvi i drugi kolokvijum - Bezbedno i robusno programiranje
